@@ -8,7 +8,7 @@ import {
   faGooglePlay,
   faApple,
 } from "@fortawesome/free-brands-svg-icons";
-import "../assets/css/header.css";
+import "../assets/css/homepage.css";
 
 function Footer() {
   const firstLinks = [

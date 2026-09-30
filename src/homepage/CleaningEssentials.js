@@ -3,7 +3,7 @@ import axios from "axios";
 import Container from "react-bootstrap/Container";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAngleRight } from "@fortawesome/free-solid-svg-icons";
-import "../assets/css/header.css";
+import "../assets/css/homepage.css";
 
 function CleaningEssentials() {
   const [items, setItems] = useState([]);

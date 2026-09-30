@@ -1,5 +1,5 @@
 import logo from "../assets/icons/primary-logo.svg";
-import "../assets/css/header.css";
+import "../assets/css/homepage.css";
 import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
