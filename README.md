@@ -4,23 +4,23 @@ This is a Zepto homepage clone that I created using React. It is inspired by the
 
 ## Features
 
-- Responsive header with delivery location, search, login, and cart
-- Promotional banner and hero sections
-- Product category sections 
-- Product cards using FakeStore API
-- Laundry Care and other product sections
-- Categories and Cities sections
-- Footer with useful links and app download section
-- Responsive design for desktop and mobile
+Responsive header with delivery location, search, login, and cart
+Promotional banner and hero sections
+Product category sections 
+Product cards using FakeStore API
+Laundry Care and other product sections
+Categories and Cities sections
+Footer with useful links and app download section
+Responsive design for desktop and mobile
 
 ## Technologies Used
 
-- React.js
-- React Bootstrap
-- Axios
-- Font Awesome
-- HTML
-- CSS
+React.js
+React Bootstrap
+Axios
+Font Awesome
+HTML
+CSS
 
 ## API
 
